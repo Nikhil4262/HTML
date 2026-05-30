@@ -1,4 +1,4 @@
-# HTML Practice Projects (Without CSS)
+# HTML Practice Projects
 
 This repository contains my HTML practice files created without using CSS or JavaScript. The main purpose of this repository is to strengthen my understanding of HTML fundamentals and semantic structure.
 
