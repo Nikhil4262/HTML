@@ -57,14 +57,6 @@ These files are part of my HTML learning journey. Every page is built using pure
 - Text Areas
 - Submit and Reset Buttons
 
-### Semantic HTML
-- Header
-- Nav
-- Main
-- Section
-- Article
-- Footer
-
 ### Other Elements
 - Preformatted Text (`<pre>`)
 - Divisions (`<div>`)
@@ -72,4 +64,3 @@ These files are part of my HTML learning journey. Every page is built using pure
 - Iframes
 - Entities
 
-## 📂 Repository Structure
